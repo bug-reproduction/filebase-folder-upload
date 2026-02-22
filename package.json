@@ -1,0 +1,11 @@
+{
+  "name": "filebase-folder-upload",
+  "version": "0.0.0",
+  "packageManager": "pnpm@10.28.1",
+  "devDependencies": {
+    "ldenv": "^0.3.16"
+  },
+  "scripts": {
+    "ldenv": "ldenv"
+  }
+}
